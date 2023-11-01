@@ -1,1 +1,1 @@
-Calculate the years of your life with some love of being alive.
+Calculate the time of being together.
